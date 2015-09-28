@@ -59,6 +59,7 @@ atlassian*
 /var
 
 /vendor
+/node_modules
 
 /*.*
 
